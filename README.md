@@ -1,4 +1,4 @@
-<h1 align="center">
+﻿<h1 align="center">
 	<br>
 	<img width="200" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
 	<br>
@@ -514,6 +514,6 @@ When learning CS there are some useful sites you must know to get always informe
 - [TestTube News](https://www.youtube.com/user/TestTubeNetwork/videos) : Interesting information about news from around the world
 - [Reddit the front page of the internet](https://www.reddit.com) : Where free time goes to die
 - [How to live for long time ?](http://www.bbc.com/future/story/20170601-the-secret-to-a-long-and-healthy-life-eat-less) : The secret of longevity 
-
+--
 
   **Maintained with :heart: by sdmg15 & al**
